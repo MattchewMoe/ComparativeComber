@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "type": "identityapp"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "AzureStorage"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:AzureDB"
+    }
+  }
+}
